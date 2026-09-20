@@ -16,7 +16,7 @@ from huggingface_hub import hf_hub_download
 # ----------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------
-HF_USERNAME = "YOUR_HF_USERNAME"
+HF_USERNAME = "CarolineBuildsAI"
 MODEL_REPO = f"{HF_USERNAME}/tourism-package-model"
 MODEL_FILE = "best_tourism_model.joblib"
 

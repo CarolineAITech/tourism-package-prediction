@@ -13,7 +13,7 @@ from huggingface_hub.utils import RepositoryNotFoundError
 # ----------------------------------------------------------------------
 # Configuration -- change HF_USERNAME to your own Hugging Face username
 # ----------------------------------------------------------------------
-HF_USERNAME = "YOUR_HF_USERNAME"
+HF_USERNAME = "CarolineBuildsAI"
 DATASET_REPO = f"{HF_USERNAME}/tourism-package-data"
 LOCAL_DATA_FILE = "tourism_project/data/tourism.csv"
 

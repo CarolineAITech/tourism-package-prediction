@@ -35,7 +35,7 @@ warnings.filterwarnings("ignore")
 # ----------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------
-HF_USERNAME = "YOUR_HF_USERNAME"
+HF_USERNAME = "CarolineBuildsAI"
 DATASET_REPO = f"{HF_USERNAME}/tourism-package-data"
 MODEL_REPO = f"{HF_USERNAME}/tourism-package-model"
 HF_TOKEN = os.getenv("HF_TOKEN")

@@ -15,7 +15,7 @@ from huggingface_hub.utils import RepositoryNotFoundError
 # ----------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------
-HF_USERNAME = "YOUR_HF_USERNAME"
+HF_USERNAME = "CarolineBuildsAI"
 SPACE_REPO = f"{HF_USERNAME}/tourism-package-app"
 DEPLOYMENT_FOLDER = "tourism_project/deployment"
 HF_TOKEN = os.getenv("HF_TOKEN")
